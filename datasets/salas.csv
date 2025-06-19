@@ -1,0 +1,8 @@
+id,nome,capacidade,recursos
+S1,Sala 101,30,"['projetor', 'quadro_branco']"
+S2,Sala 102,40,"['projetor', 'quadro_branco']"
+S3,Sala 103,25,"['projetor', 'quadro_branco']"
+S4,Lab Info 1,20,"['projetor', 'laboratorio_informatica']"
+S5,Auditorium,60,"['projetor', 'som', 'palco']"
+S6,Lab Info 2,60,"['projetor', 'laboratorio_informatica']"
+S7,Sala 104,60,"['projetor', 'quadro_branco']"

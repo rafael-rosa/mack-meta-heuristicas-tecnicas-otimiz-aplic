@@ -1,0 +1,505 @@
+--- Final Timetable (Best Solution from GA) ---
+
+Turma: IA601_T12 (Inteligência Artificial Aplicada)
+  Professor: Prof. Clara Gomes Oliveira (P13)
+  Sala: Auditorium (S5)
+  Horario: Slot 28 (Quarta 13:00-14:00) for 1 blocos
+--------------------
+Turma: IA601_T13 (Inteligência Artificial Aplicada)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Sala 104 (S7)
+  Horario: Slot 10 (Segunda 19:00-20:00) for 2 blocos
+--------------------
+Turma: IA601_T14 (Inteligência Artificial Aplicada)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Sala 102 (S2)
+  Horario: Slot 11 (Segunda 20:00-21:00) for 1 blocos
+--------------------
+Turma: IA601_T15 (Inteligência Artificial Aplicada)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Auditorium (S5)
+  Horario: Slot 19 (Terça 16:00-17:00) for 2 blocos
+--------------------
+Turma: SEG602_T16 (Segurança de Redes e Sistemas)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 37 (Quinta 09:00-10:00) for 1 blocos
+--------------------
+Turma: SEG602_T17 (Segurança de Redes e Sistemas)
+  Professor: Prof. Ana Lira (P7)
+  Sala: Sala 104 (S7)
+  Horario: Slot 4 (Segunda 13:00-14:00) for 1 blocos
+--------------------
+Turma: SEG602_T18 (Segurança de Redes e Sistemas)
+  Professor: Prof. Ana Lira (P7)
+  Sala: Auditorium (S5)
+  Horario: Slot 33 (Quarta 18:00-19:00) for 2 blocos
+--------------------
+Turma: SEG602_T19 (Segurança de Redes e Sistemas)
+  Professor: Prof. José Rocha (P10)
+  Sala: Sala 102 (S2)
+  Horario: Slot 8 (Segunda 17:00-18:00) for 1 blocos
+--------------------
+Turma: WEB603_T20 (Desenvolvimento Web Full Stack)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 2 blocos
+--------------------
+Turma: WEB603_T21 (Desenvolvimento Web Full Stack)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 38 (Quinta 10:00-11:00) for 1 blocos
+--------------------
+Turma: WEB603_T22 (Desenvolvimento Web Full Stack)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 36 (Quinta 08:00-09:00) for 1 blocos
+--------------------
+Turma: WEB603_T23 (Desenvolvimento Web Full Stack)
+  Professor: Prof. Clara Gomes Oliveira (P13)
+  Sala: Sala 102 (S2)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 1 blocos
+--------------------
+Turma: CN604_T24 (Arquitetura de Computação em Nuvem)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Auditorium (S5)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 2 blocos
+--------------------
+Turma: CN604_T25 (Arquitetura de Computação em Nuvem)
+  Professor: Prof. Gustavo Costa Pereira (P17)
+  Sala: Lab Info 1 (S4)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 1 blocos
+--------------------
+Turma: CN604_T26 (Arquitetura de Computação em Nuvem)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 12 (Terça 08:00-09:00) for 1 blocos
+--------------------
+Turma: CN604_T27 (Arquitetura de Computação em Nuvem)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Auditorium (S5)
+  Horario: Slot 29 (Quarta 14:00-15:00) for 1 blocos
+--------------------
+Turma: ML605_T28 (Aprendizado de Máquina Supervisionado)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Auditorium (S5)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 2 blocos
+--------------------
+Turma: ML605_T29 (Aprendizado de Máquina Supervisionado)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Sala 103 (S3)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 2 blocos
+--------------------
+Turma: ML605_T30 (Aprendizado de Máquina Supervisionado)
+  Professor: Prof. Ana Lira (P7)
+  Sala: Lab Info 1 (S4)
+  Horario: Slot 1 (Segunda 09:00-10:00) for 1 blocos
+--------------------
+Turma: ML605_T31 (Aprendizado de Máquina Supervisionado)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Auditorium (S5)
+  Horario: Slot 30 (Quarta 15:00-16:00) for 1 blocos
+--------------------
+Turma: ES606_T32 (Engenharia de Software Ágil)
+  Professor: Prof. José Rocha (P10)
+  Sala: Sala 101 (S1)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 1 blocos
+--------------------
+Turma: ES606_T33 (Engenharia de Software Ágil)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Auditorium (S5)
+  Horario: Slot 16 (Terça 13:00-14:00) for 1 blocos
+--------------------
+Turma: ES606_T34 (Engenharia de Software Ágil)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Sala 103 (S3)
+  Horario: Slot 13 (Terça 09:00-10:00) for 2 blocos
+--------------------
+Turma: ES606_T35 (Engenharia de Software Ágil)
+  Professor: Prof. João Gomes (P8)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 9 (Segunda 18:00-19:00) for 1 blocos
+--------------------
+Turma: AA607_T36 (Análise e Projeto de Algoritmos)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Auditorium (S5)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 2 blocos
+--------------------
+Turma: AA607_T37 (Análise e Projeto de Algoritmos)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 13 (Terça 09:00-10:00) for 1 blocos
+--------------------
+Turma: AA607_T38 (Análise e Projeto de Algoritmos)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Sala 101 (S1)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 2 blocos
+--------------------
+Turma: AA607_T39 (Análise e Projeto de Algoritmos)
+  Professor: Prof. Clara Gomes Oliveira (P13)
+  Sala: Sala 104 (S7)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 2 blocos
+--------------------
+Turma: COMP608_T40 (Construção de Compiladores)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Sala 104 (S7)
+  Horario: Slot 8 (Segunda 17:00-18:00) for 1 blocos
+--------------------
+Turma: COMP608_T41 (Construção de Compiladores)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Sala 102 (S2)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 1 blocos
+--------------------
+Turma: COMP608_T42 (Construção de Compiladores)
+  Professor: Prof. Fernando Rocha (P6)
+  Sala: Sala 104 (S7)
+  Horario: Slot 14 (Terça 10:00-11:00) for 2 blocos
+--------------------
+Turma: COMP608_T43 (Construção de Compiladores)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Auditorium (S5)
+  Horario: Slot 39 (Quinta 11:00-12:00) for 1 blocos
+--------------------
+Turma: SD609_T44 (Sistemas Operacionais Distribuídos)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 31 (Quarta 16:00-17:00) for 1 blocos
+--------------------
+Turma: SD609_T45 (Sistemas Operacionais Distribuídos)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 16 (Terça 13:00-14:00) for 1 blocos
+--------------------
+Turma: SD609_T46 (Sistemas Operacionais Distribuídos)
+  Professor: Prof. José Rocha (P10)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 29 (Quarta 14:00-15:00) for 2 blocos
+--------------------
+Turma: SD609_T47 (Sistemas Operacionais Distribuídos)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 20 (Terça 17:00-18:00) for 2 blocos
+--------------------
+Turma: IHC610_T48 (Design de Interface Humano-Computador)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Auditorium (S5)
+  Horario: Slot 10 (Segunda 19:00-20:00) for 1 blocos
+--------------------
+Turma: IHC610_T49 (Design de Interface Humano-Computador)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Sala 102 (S2)
+  Horario: Slot 17 (Terça 14:00-15:00) for 1 blocos
+--------------------
+Turma: IHC610_T50 (Design de Interface Humano-Computador)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 2 blocos
+--------------------
+Turma: IHC610_T51 (Design de Interface Humano-Computador)
+  Professor: Prof. João Gomes (P8)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 24 (Quarta 08:00-09:00) for 2 blocos
+--------------------
+Turma: TEC611_T52 (Tópicos Avançados em Banco de Dados)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Sala 104 (S7)
+  Horario: Slot 18 (Terça 15:00-16:00) for 2 blocos
+--------------------
+Turma: TEC611_T53 (Tópicos Avançados em Banco de Dados)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Sala 102 (S2)
+  Horario: Slot 24 (Quarta 08:00-09:00) for 2 blocos
+--------------------
+Turma: TEC611_T54 (Tópicos Avançados em Banco de Dados)
+  Professor: Prof. Daniel Lima (P4)
+  Sala: Sala 101 (S1)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 1 blocos
+--------------------
+Turma: TEC611_T55 (Tópicos Avançados em Banco de Dados)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Lab Info 1 (S4)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 1 blocos
+--------------------
+Turma: GP612_T56 (Gerenciamento Estratégico de Projetos de TI)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Sala 104 (S7)
+  Horario: Slot 20 (Terça 17:00-18:00) for 2 blocos
+--------------------
+Turma: GP612_T57 (Gerenciamento Estratégico de Projetos de TI)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Sala 102 (S2)
+  Horario: Slot 12 (Terça 08:00-09:00) for 2 blocos
+--------------------
+Turma: GP612_T58 (Gerenciamento Estratégico de Projetos de TI)
+  Professor: Prof. Gustavo Costa Pereira (P17)
+  Sala: Sala 104 (S7)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 2 blocos
+--------------------
+Turma: GP612_T59 (Gerenciamento Estratégico de Projetos de TI)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Auditorium (S5)
+  Horario: Slot 12 (Terça 08:00-09:00) for 2 blocos
+--------------------
+Turma: PP613_T60 (Programação Concorrente e Paralela)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Sala 101 (S1)
+  Horario: Slot 3 (Segunda 11:00-12:00) for 1 blocos
+--------------------
+Turma: PP613_T61 (Programação Concorrente e Paralela)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Sala 102 (S2)
+  Horario: Slot 22 (Terça 19:00-20:00) for 2 blocos
+--------------------
+Turma: PP613_T62 (Programação Concorrente e Paralela)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Sala 104 (S7)
+  Horario: Slot 16 (Terça 13:00-14:00) for 1 blocos
+--------------------
+Turma: PP613_T63 (Programação Concorrente e Paralela)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Sala 103 (S3)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 2 blocos
+--------------------
+Turma: VC614_T64 (Fundamentos de Visão Computacional)
+  Professor: Prof. Pedro Ribeiro Silva (P19)
+  Sala: Sala 101 (S1)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 1 blocos
+--------------------
+Turma: VC614_T65 (Fundamentos de Visão Computacional)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Auditorium (S5)
+  Horario: Slot 23 (Terça 20:00-21:00) for 1 blocos
+--------------------
+Turma: VC614_T66 (Fundamentos de Visão Computacional)
+  Professor: Prof. José Rocha (P10)
+  Sala: Auditorium (S5)
+  Horario: Slot 37 (Quinta 09:00-10:00) for 2 blocos
+--------------------
+Turma: VC614_T67 (Fundamentos de Visão Computacional)
+  Professor: Prof. José Rocha (P10)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 4 (Segunda 13:00-14:00) for 1 blocos
+--------------------
+Turma: PLN615_T68 (Processamento de Linguagem Natural com Python)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Sala 104 (S7)
+  Horario: Slot 7 (Segunda 16:00-17:00) for 1 blocos
+--------------------
+Turma: PLN615_T69 (Processamento de Linguagem Natural com Python)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 28 (Quarta 13:00-14:00) for 1 blocos
+--------------------
+Turma: PLN615_T70 (Processamento de Linguagem Natural com Python)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Sala 101 (S1)
+  Horario: Slot 9 (Segunda 18:00-19:00) for 1 blocos
+--------------------
+Turma: PLN615_T71 (Processamento de Linguagem Natural com Python)
+  Professor: Prof. João Gomes (P8)
+  Sala: Auditorium (S5)
+  Horario: Slot 35 (Quarta 20:00-21:00) for 2 blocos
+--------------------
+Turma: RV616_T72 (Desenvolvimento para Realidade Virtual)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Sala 102 (S2)
+  Horario: Slot 3 (Segunda 11:00-12:00) for 2 blocos
+--------------------
+Turma: RV616_T73 (Desenvolvimento para Realidade Virtual)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Auditorium (S5)
+  Horario: Slot 26 (Quarta 10:00-11:00) for 2 blocos
+--------------------
+Turma: RV616_T74 (Desenvolvimento para Realidade Virtual)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Auditorium (S5)
+  Horario: Slot 17 (Terça 14:00-15:00) for 2 blocos
+--------------------
+Turma: RV616_T75 (Desenvolvimento para Realidade Virtual)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Auditorium (S5)
+  Horario: Slot 9 (Segunda 18:00-19:00) for 1 blocos
+--------------------
+Turma: BC617_T76 (Tecnologias Blockchain)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Auditorium (S5)
+  Horario: Slot 40 (Quinta 13:00-14:00) for 1 blocos
+--------------------
+Turma: BC617_T77 (Tecnologias Blockchain)
+  Professor: Prof. Fernando Rocha (P6)
+  Sala: Sala 104 (S7)
+  Horario: Slot 24 (Quarta 08:00-09:00) for 1 blocos
+--------------------
+Turma: BC617_T78 (Tecnologias Blockchain)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Auditorium (S5)
+  Horario: Slot 41 (Quinta 14:00-15:00) for 1 blocos
+--------------------
+Turma: BC617_T79 (Tecnologias Blockchain)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 17 (Terça 14:00-15:00) for 2 blocos
+--------------------
+Turma: IOT618_T80 (Projetos de Internet das Coisas)
+  Professor: Prof. Daniel Lima (P4)
+  Sala: Auditorium (S5)
+  Horario: Slot 43 (Quinta 16:00-17:00) for 1 blocos
+--------------------
+Turma: IOT618_T81 (Projetos de Internet das Coisas)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Sala 104 (S7)
+  Horario: Slot 9 (Segunda 18:00-19:00) for 1 blocos
+--------------------
+Turma: IOT618_T82 (Projetos de Internet das Coisas)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 34 (Quarta 19:00-20:00) for 2 blocos
+--------------------
+Turma: IOT618_T83 (Projetos de Internet das Coisas)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Auditorium (S5)
+  Horario: Slot 3 (Segunda 11:00-12:00) for 2 blocos
+--------------------
+Turma: BIO619_T84 (Introdução à Bioinformática)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Lab Info 1 (S4)
+  Horario: Slot 3 (Segunda 11:00-12:00) for 1 blocos
+--------------------
+Turma: BIO619_T85 (Introdução à Bioinformática)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Auditorium (S5)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 1 blocos
+--------------------
+Turma: BIO619_T86 (Introdução à Bioinformática)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Sala 102 (S2)
+  Horario: Slot 10 (Segunda 19:00-20:00) for 1 blocos
+--------------------
+Turma: BIO619_T87 (Introdução à Bioinformática)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 26 (Quarta 10:00-11:00) for 2 blocos
+--------------------
+Turma: MOB620_T88 (Desenvolvimento de Aplicações Móveis Multiplataforma)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Sala 103 (S3)
+  Horario: Slot 3 (Segunda 11:00-12:00) for 2 blocos
+--------------------
+Turma: MOB620_T89 (Desenvolvimento de Aplicações Móveis Multiplataforma)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Sala 101 (S1)
+  Horario: Slot 4 (Segunda 13:00-14:00) for 1 blocos
+--------------------
+Turma: MOB620_T90 (Desenvolvimento de Aplicações Móveis Multiplataforma)
+  Professor: Prof. Daniel Lima (P4)
+  Sala: Auditorium (S5)
+  Horario: Slot 21 (Terça 18:00-19:00) for 2 blocos
+--------------------
+Turma: MOB620_T91 (Desenvolvimento de Aplicações Móveis Multiplataforma)
+  Professor: Prof. Leandro Ferreira Costa (P16)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 2 blocos
+--------------------
+Turma: QS621_T92 (Teste e Qualidade de Software)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Sala 101 (S1)
+  Horario: Slot 6 (Segunda 15:00-16:00) for 1 blocos
+--------------------
+Turma: QS621_T93 (Teste e Qualidade de Software)
+  Professor: Prof. Fernando Rocha (P6)
+  Sala: Auditorium (S5)
+  Horario: Slot 11 (Segunda 20:00-21:00) for 1 blocos
+--------------------
+Turma: QS621_T94 (Teste e Qualidade de Software)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Sala 102 (S2)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 2 blocos
+--------------------
+Turma: QS621_T95 (Teste e Qualidade de Software)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Sala 104 (S7)
+  Horario: Slot 22 (Terça 19:00-20:00) for 1 blocos
+--------------------
+Turma: BDA622_T96 (Mineração de Dados e Big Data)
+  Professor: Prof. Fernando Rocha (P6)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 22 (Terça 19:00-20:00) for 2 blocos
+--------------------
+Turma: BDA622_T97 (Mineração de Dados e Big Data)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 11 (Segunda 20:00-21:00) for 1 blocos
+--------------------
+Turma: BDA622_T98 (Mineração de Dados e Big Data)
+  Professor: Prof. Eliana Gomes (P5)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 14 (Terça 10:00-11:00) for 2 blocos
+--------------------
+Turma: BDA622_T99 (Mineração de Dados e Big Data)
+  Professor: Prof. Daniel Lima (P4)
+  Sala: Sala 104 (S7)
+  Horario: Slot 5 (Segunda 14:00-15:00) for 2 blocos
+--------------------
+Turma: AC623_T100 (Arquitetura e Organização de Computadores Avançada)
+  Professor: Prof. Carla Dias (P3)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 32 (Quarta 17:00-18:00) for 2 blocos
+--------------------
+Turma: AC623_T101 (Arquitetura e Organização de Computadores Avançada)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Auditorium (S5)
+  Horario: Slot 24 (Quarta 08:00-09:00) for 2 blocos
+--------------------
+Turma: AC623_T102 (Arquitetura e Organização de Computadores Avançada)
+  Professor: Prof. Bruno Costa (P2)
+  Sala: Sala 102 (S2)
+  Horario: Slot 0 (Segunda 08:00-09:00) for 2 blocos
+--------------------
+Turma: AC623_T103 (Arquitetura e Organização de Computadores Avançada)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Sala 102 (S2)
+  Horario: Slot 19 (Terça 16:00-17:00) for 2 blocos
+--------------------
+Turma: ET624_T104 (Ética e Legislação em Informática)
+  Professor: Prof. Gustavo Alves Ferreira (P11)
+  Sala: Auditorium (S5)
+  Horario: Slot 14 (Terça 10:00-11:00) for 2 blocos
+--------------------
+Turma: ET624_T105 (Ética e Legislação em Informática)
+  Professor: Prof. Gustavo Pereira (P15)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 10 (Segunda 19:00-20:00) for 1 blocos
+--------------------
+Turma: ET624_T106 (Ética e Legislação em Informática)
+  Professor: Prof. Ana Rosa (P9)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 19 (Terça 16:00-17:00) for 1 blocos
+--------------------
+Turma: ET624_T107 (Ética e Legislação em Informática)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Lab Info 2 (S6)
+  Horario: Slot 2 (Segunda 10:00-11:00) for 2 blocos
+--------------------
+Turma: MC625_T108 (Metodologia da Pesquisa Científica em Computação)
+  Professor: Prof. José Rocha (P10)
+  Sala: Sala 103 (S3)
+  Horario: Slot 1 (Segunda 09:00-10:00) for 2 blocos
+--------------------
+Turma: MC625_T109 (Metodologia da Pesquisa Científica em Computação)
+  Professor: Prof. Fernando Rocha (P6)
+  Sala: Auditorium (S5)
+  Horario: Slot 42 (Quinta 15:00-16:00) for 1 blocos
+--------------------
+Turma: MC625_T110 (Metodologia da Pesquisa Científica em Computação)
+  Professor: Prof. Ana Silva (P1)
+  Sala: Sala 104 (S7)
+  Horario: Slot 12 (Terça 08:00-09:00) for 2 blocos
+--------------------
+Turma: MC625_T111 (Metodologia da Pesquisa Científica em Computação)
+  Professor: Prof. Camila Pereira (P12)
+  Sala: Auditorium (S5)
+  Horario: Slot 31 (Quarta 16:00-17:00) for 2 blocos
+--------------------
+
+Total turmas scheduled in final solution: 100 / 100
+Final Fitness: -15.25

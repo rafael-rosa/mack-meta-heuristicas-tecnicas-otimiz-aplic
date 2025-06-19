@@ -1,0 +1,101 @@
+codigo,nome,duracao_blocos,prof_compativel_ids,recursos_necessarios,alunos_estimados,id_turma
+IA601,Inteligência Artificial Aplicada,1,"['P13', 'P17']","['projetor', 'som']",23,IA601_T12
+IA601,Inteligência Artificial Aplicada,2,"['P18', 'P12']","['projetor', 'quadro_branco']",60,IA601_T13
+IA601,Inteligência Artificial Aplicada,1,"['P15', 'P19']","['projetor', 'quadro_branco']",34,IA601_T14
+IA601,Inteligência Artificial Aplicada,2,"['P18', 'P16']",['projetor'],42,IA601_T15
+SEG602,Segurança de Redes e Sistemas,1,"['P7', 'P1', 'P19']","['projetor', 'laboratorio_informatica']",30,SEG602_T16
+SEG602,Segurança de Redes e Sistemas,1,['P7'],"['projetor', 'quadro_branco']",53,SEG602_T17
+SEG602,Segurança de Redes e Sistemas,2,"['P7', 'P18', 'P9']",['projetor'],60,SEG602_T18
+SEG602,Segurança de Redes e Sistemas,1,['P10'],"['projetor', 'quadro_branco']",37,SEG602_T19
+WEB603,Desenvolvimento Web Full Stack,2,['P3'],"['projetor', 'laboratorio_informatica']",28,WEB603_T20
+WEB603,Desenvolvimento Web Full Stack,1,"['P13', 'P15', 'P2']","['projetor', 'laboratorio_informatica']",22,WEB603_T21
+WEB603,Desenvolvimento Web Full Stack,1,"['P1', 'P6', 'P8']","['projetor', 'laboratorio_informatica']",33,WEB603_T22
+WEB603,Desenvolvimento Web Full Stack,1,['P13'],['projetor'],39,WEB603_T23
+CN604,Arquitetura de Computação em Nuvem,2,['P11'],"['projetor', 'som']",59,CN604_T24
+CN604,Arquitetura de Computação em Nuvem,1,['P17'],['projetor'],20,CN604_T25
+CN604,Arquitetura de Computação em Nuvem,1,['P16'],"['projetor', 'laboratorio_informatica']",22,CN604_T26
+CN604,Arquitetura de Computação em Nuvem,1,"['P19', 'P1']","['projetor', 'som']",32,CN604_T27
+ML605,Aprendizado de Máquina Supervisionado,2,['P1'],"['projetor', 'som']",36,ML605_T28
+ML605,Aprendizado de Máquina Supervisionado,2,"['P11', 'P2', 'P10']",['projetor'],21,ML605_T29
+ML605,Aprendizado de Máquina Supervisionado,1,"['P19', 'P7']",['projetor'],20,ML605_T30
+ML605,Aprendizado de Máquina Supervisionado,1,"['P18', 'P9']","['projetor', 'som']",30,ML605_T31
+ES606,Engenharia de Software Ágil,1,"['P17', 'P10']",['projetor'],26,ES606_T32
+ES606,Engenharia de Software Ágil,1,"['P9', 'P5']",['projetor'],42,ES606_T33
+ES606,Engenharia de Software Ágil,2,"['P12', 'P19']","['projetor', 'quadro_branco']",20,ES606_T34
+ES606,Engenharia de Software Ágil,1,"['P8', 'P11']","['projetor', 'laboratorio_informatica']",54,ES606_T35
+AA607,Análise e Projeto de Algoritmos,2,['P15'],['projetor'],43,AA607_T36
+AA607,Análise e Projeto de Algoritmos,1,"['P16', 'P19']","['projetor', 'laboratorio_informatica']",29,AA607_T37
+AA607,Análise e Projeto de Algoritmos,2,['P3'],"['projetor', 'quadro_branco']",27,AA607_T38
+AA607,Análise e Projeto de Algoritmos,2,['P13'],"['projetor', 'quadro_branco']",45,AA607_T39
+COMP608,Construção de Compiladores,1,['P12'],"['projetor', 'quadro_branco']",50,COMP608_T40
+COMP608,Construção de Compiladores,1,"['P18', 'P1', 'P4']",['projetor'],39,COMP608_T41
+COMP608,Construção de Compiladores,2,"['P6', 'P14']","['projetor', 'quadro_branco']",49,COMP608_T42
+COMP608,Construção de Compiladores,1,"['P8', 'P16', 'P3']",['projetor'],52,COMP608_T43
+SD609,Sistemas Operacionais Distribuídos,1,"['P6', 'P1', 'P4']","['projetor', 'laboratorio_informatica']",59,SD609_T44
+SD609,Sistemas Operacionais Distribuídos,1,"['P2', 'P17', 'P9']","['projetor', 'laboratorio_informatica']",56,SD609_T45
+SD609,Sistemas Operacionais Distribuídos,2,"['P11', 'P10', 'P12']","['projetor', 'laboratorio_informatica']",50,SD609_T46
+SD609,Sistemas Operacionais Distribuídos,2,"['P2', 'P4']","['projetor', 'laboratorio_informatica']",24,SD609_T47
+IHC610,Design de Interface Humano-Computador,1,['P1'],['projetor'],44,IHC610_T48
+IHC610,Design de Interface Humano-Computador,1,"['P18', 'P1', 'P3']",['projetor'],31,IHC610_T49
+IHC610,Design de Interface Humano-Computador,2,['P5'],"['projetor', 'laboratorio_informatica']",52,IHC610_T50
+IHC610,Design de Interface Humano-Computador,2,"['P17', 'P18', 'P8']","['projetor', 'laboratorio_informatica']",54,IHC610_T51
+TEC611,Tópicos Avançados em Banco de Dados,2,"['P12', 'P13', 'P19']","['projetor', 'quadro_branco']",60,TEC611_T52
+TEC611,Tópicos Avançados em Banco de Dados,2,"['P16', 'P19', 'P11']","['projetor', 'quadro_branco']",31,TEC611_T53
+TEC611,Tópicos Avançados em Banco de Dados,1,"['P16', 'P4', 'P12']",['projetor'],26,TEC611_T54
+TEC611,Tópicos Avançados em Banco de Dados,1,"['P2', 'P16']",['projetor'],20,TEC611_T55
+GP612,Gerenciamento Estratégico de Projetos de TI,2,"['P10', 'P14', 'P9']","['projetor', 'quadro_branco']",44,GP612_T56
+GP612,Gerenciamento Estratégico de Projetos de TI,2,"['P1', 'P3']",['projetor'],40,GP612_T57
+GP612,Gerenciamento Estratégico de Projetos de TI,2,['P17'],"['projetor', 'quadro_branco']",45,GP612_T58
+GP612,Gerenciamento Estratégico de Projetos de TI,2,"['P5', 'P10']",['projetor'],53,GP612_T59
+PP613,Programação Concorrente e Paralela,1,"['P9', 'P18']",['projetor'],26,PP613_T60
+PP613,Programação Concorrente e Paralela,2,"['P14', 'P5', 'P16']","['projetor', 'quadro_branco']",38,PP613_T61
+PP613,Programação Concorrente e Paralela,1,"['P17', 'P3', 'P9']","['projetor', 'quadro_branco']",56,PP613_T62
+PP613,Programação Concorrente e Paralela,2,"['P14', 'P18', 'P2']",['projetor'],21,PP613_T63
+VC614,Fundamentos de Visão Computacional,1,['P19'],['projetor'],29,VC614_T64
+VC614,Fundamentos de Visão Computacional,1,"['P13', 'P11']",['projetor'],55,VC614_T65
+VC614,Fundamentos de Visão Computacional,2,"['P13', 'P10', 'P17']","['projetor', 'som']",34,VC614_T66
+VC614,Fundamentos de Visão Computacional,1,['P10'],"['projetor', 'laboratorio_informatica']",33,VC614_T67
+PLN615,Processamento de Linguagem Natural com Python,1,['P15'],"['projetor', 'quadro_branco']",58,PLN615_T68
+PLN615,Processamento de Linguagem Natural com Python,1,"['P6', 'P3', 'P17']","['projetor', 'laboratorio_informatica']",23,PLN615_T69
+PLN615,Processamento de Linguagem Natural com Python,1,"['P17', 'P2', 'P5']","['projetor', 'quadro_branco']",27,PLN615_T70
+PLN615,Processamento de Linguagem Natural com Python,2,"['P16', 'P17', 'P8']","['projetor', 'som']",27,PLN615_T71
+RV616,Desenvolvimento para Realidade Virtual,2,['P11'],['projetor'],33,RV616_T72
+RV616,Desenvolvimento para Realidade Virtual,2,"['P5', 'P11']","['projetor', 'som']",22,RV616_T73
+RV616,Desenvolvimento para Realidade Virtual,2,"['P9', 'P12']",['projetor'],45,RV616_T74
+RV616,Desenvolvimento para Realidade Virtual,1,['P15'],"['projetor', 'som']",53,RV616_T75
+BC617,Tecnologias Blockchain,1,"['P16', 'P12', 'P9']",['projetor'],54,BC617_T76
+BC617,Tecnologias Blockchain,1,"['P10', 'P6', 'P16']","['projetor', 'quadro_branco']",45,BC617_T77
+BC617,Tecnologias Blockchain,1,"['P12', 'P1', 'P5']","['projetor', 'som']",51,BC617_T78
+BC617,Tecnologias Blockchain,2,"['P17', 'P11']","['projetor', 'laboratorio_informatica']",46,BC617_T79
+IOT618,Projetos de Internet das Coisas,1,"['P18', 'P9', 'P4']","['projetor', 'som']",37,IOT618_T80
+IOT618,Projetos de Internet das Coisas,1,['P16'],"['projetor', 'quadro_branco']",43,IOT618_T81
+IOT618,Projetos de Internet das Coisas,2,"['P9', 'P19', 'P15']","['projetor', 'laboratorio_informatica']",24,IOT618_T82
+IOT618,Projetos de Internet das Coisas,2,['P15'],"['projetor', 'som']",44,IOT618_T83
+BIO619,Introdução à Bioinformática,1,['P3'],"['projetor', 'laboratorio_informatica']",20,BIO619_T84
+BIO619,Introdução à Bioinformática,1,['P16'],['projetor'],56,BIO619_T85
+BIO619,Introdução à Bioinformática,1,"['P8', 'P3']",['projetor'],31,BIO619_T86
+BIO619,Introdução à Bioinformática,2,"['P13', 'P1', 'P17']","['projetor', 'laboratorio_informatica']",53,BIO619_T87
+MOB620,Desenvolvimento de Aplicações Móveis Multiplataforma,2,"['P10', 'P5', 'P11']","['projetor', 'quadro_branco']",23,MOB620_T88
+MOB620,Desenvolvimento de Aplicações Móveis Multiplataforma,1,['P12'],['projetor'],27,MOB620_T89
+MOB620,Desenvolvimento de Aplicações Móveis Multiplataforma,2,"['P4', 'P14']","['projetor', 'som']",26,MOB620_T90
+MOB620,Desenvolvimento de Aplicações Móveis Multiplataforma,2,['P16'],"['projetor', 'laboratorio_informatica']",46,MOB620_T91
+QS621,Teste e Qualidade de Software,1,"['P11', 'P15', 'P3']","['projetor', 'quadro_branco']",27,QS621_T92
+QS621,Teste e Qualidade de Software,1,"['P6', 'P17']","['projetor', 'som']",57,QS621_T93
+QS621,Teste e Qualidade de Software,2,['P11'],['projetor'],31,QS621_T94
+QS621,Teste e Qualidade de Software,1,"['P11', 'P15', 'P13']","['projetor', 'quadro_branco']",51,QS621_T95
+BDA622,Mineração de Dados e Big Data,2,"['P11', 'P6', 'P7']","['projetor', 'laboratorio_informatica']",58,BDA622_T96
+BDA622,Mineração de Dados e Big Data,1,['P1'],"['projetor', 'laboratorio_informatica']",33,BDA622_T97
+BDA622,Mineração de Dados e Big Data,2,"['P5', 'P11']","['projetor', 'laboratorio_informatica']",30,BDA622_T98
+BDA622,Mineração de Dados e Big Data,2,"['P4', 'P9']","['projetor', 'quadro_branco']",52,BDA622_T99
+AC623,Arquitetura e Organização de Computadores Avançada,2,"['P4', 'P3', 'P11']","['projetor', 'laboratorio_informatica']",34,AC623_T100
+AC623,Arquitetura e Organização de Computadores Avançada,2,"['P9', 'P15']","['projetor', 'som']",24,AC623_T101
+AC623,Arquitetura e Organização de Computadores Avançada,2,"['P2', 'P15']",['projetor'],32,AC623_T102
+AC623,Arquitetura e Organização de Computadores Avançada,2,"['P15', 'P14', 'P11']","['projetor', 'quadro_branco']",33,AC623_T103
+ET624,Ética e Legislação em Informática,2,"['P16', 'P11']",['projetor'],53,ET624_T104
+ET624,Ética e Legislação em Informática,1,['P15'],"['projetor', 'laboratorio_informatica']",28,ET624_T105
+ET624,Ética e Legislação em Informática,1,"['P9', 'P12']","['projetor', 'laboratorio_informatica']",22,ET624_T106
+ET624,Ética e Legislação em Informática,2,['P12'],"['projetor', 'laboratorio_informatica']",56,ET624_T107
+MC625,Metodologia da Pesquisa Científica em Computação,2,['P10'],"['projetor', 'quadro_branco']",22,MC625_T108
+MC625,Metodologia da Pesquisa Científica em Computação,1,"['P11', 'P6', 'P19']","['projetor', 'som']",43,MC625_T109
+MC625,Metodologia da Pesquisa Científica em Computação,2,"['P9', 'P1']","['projetor', 'quadro_branco']",54,MC625_T110
+MC625,Metodologia da Pesquisa Científica em Computação,2,"['P15', 'P18', 'P12']","['projetor', 'som']",54,MC625_T111
